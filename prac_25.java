@@ -1,4 +1,4 @@
-public class PrimeCheck {
+public class prac_25 {
     public static void main(String[] args) {
         int number = 29; // You can change this number to test
         boolean isPrime = true;
